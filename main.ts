@@ -8,7 +8,8 @@
 // says goodbye to its charger, orders its browser history deleted like a
 // dying wish, and then dies mid-sentence — the message literally cuts off
 // with an em dash, so the phone's last act is failing to finish its own
-// farewell. Funny first, unmistakably a phone's voice second.
+// farewell. Funny first, unmistakably a phone's voice second, and the
+// cutoff is the punchline, not an accident.
 // Verified by running the program: the output is exactly 130 characters,
 // one line.
 
